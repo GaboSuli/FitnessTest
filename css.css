@@ -1,0 +1,62 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header
+{
+    color: white;
+}
+header>div
+{
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+header>div>h1{
+    text-align: center;
+    font-size: 50px;
+}
+.Description{
+    padding: 150px;
+    background-image: url(./img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.Description>h2,p{
+    text-align: center;
+}
+section{
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 25px;
+    background-color: gray;
+}
+section>form>h1{
+    color: white;
+}
+section>form>input
+{
+    margin-left: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+section>form>label{
+    color: white;
+    padding-left: 20px;
+}
+section>form>button{
+    margin: auto;
+    display: block;
+    margin-right: 0px;
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+section>form>button:hover{
+    background-color: rgb(44, 44, 44);
+    color: rgb(206, 206, 206);
+    border: 2px dotted rgb(255, 255, 255);
+}

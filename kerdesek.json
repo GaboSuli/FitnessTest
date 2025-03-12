@@ -1,0 +1,119 @@
+[
+    {
+        "kerdes": "Mikor szoktál felkelni hétvégente?",
+        "valasz1": "Általában koránkelő vagyok, legkésőbb 7-kor már ébren vagyok.",
+        "pont1": 1,
+        "valasz2": "Korán kelni? Soha! Ha lehet, akkor délnél előbb fel sem kelek.",
+        "pont2": 2,
+        "valasz3": "Rosszul alszom, ezért mindig addig alszom, amíg csak lehet.",
+        "pont3": 3
+    },
+    {
+        "kerdes": "Szoktál esténként nassolni?",
+        "valasz1": "Egy jó film vagy sorozat, egy pizza, chips vagy pattogatott kukorica… ez az ideális esti program. ;) ",
+        "pont1": 3,
+        "valasz2": "Igen, de ha lehet, akkor aszalt gyümölcsöt vagy olajos magvakat.",
+        "pont2": 2,
+        "valasz3": "Este sosem. Vigyázok az alakomra!",
+        "pont3": 1
+    },
+    {
+        "kerdes": "Mennyit sportolsz?",
+        "valasz1": "A sport az életem. Minden nap van valami: edzés, futás, aerobic… ",
+        "pont1": 1,
+        "valasz2": "Heti 3 alkalommal biztos. Szeretek mozogni. ",
+        "pont2": 2,
+        "valasz3": " Biztos, hogy nem. Lustaság fél egészség!",
+        "pont3": 3
+    },
+    {
+        "kerdes": "Mi a kedvenc sportod?",
+        "valasz1": "Csapatjátékok leginkább.",
+        "pont1": 1,
+        "valasz2": "Az egyszemélyes sportok híve vagyok.",
+        "pont2": 2,
+        "valasz3": "Sport? Mi is az?",
+        "pont3": 3
+    },
+    {
+        "kerdes": "Mi az, amit a legszívesebben megennél most?",
+        "valasz1": "Egy jó steak vagy oldalas, ha lehet hasábbal és egy kis salátával.",
+        "pont1": 2,
+        "valasz2": "Egy lazacfilé salátával és dresszinggel jólesne most. ",
+        "pont2": 1,
+        "valasz3": "Elég lesz egy csokitorta is, köszönöm!",
+        "pont3": 3
+    },
+    {
+        "kerdes": "Milyen táplálékkiegészítőket szedsz rendszeresen?",
+        "valasz1": "Az meg mi?",
+        "pont1": 3,
+        "valasz2": "Vitaminokat, abból is inkább C-, D vitamin.",
+        "pont2": 2,
+        "valasz3": "Pro- és prebiotikumokat, vitaminokat és proteint, ha edzek.",
+        "pont3": 1
+    },
+    {
+        "kerdes": "Mennyi húst eszel egy héten?",
+        "valasz1": "Legalább 4-5 kg-ot biztosan. Kell az erő.",
+        "pont1": 3,
+        "valasz2": "Általában 2 kg, vagy annál kevesebb.",
+        "pont2": 2,
+        "valasz3": "Nem eszem húst, vegetáriánus vagyok.",
+        "pont3": 1
+    },
+    {
+        "kerdes": "Próbáltad már a húshelyettesítő termékeket?",
+        "valasz1": "Igen, nekem ízlett.",
+        "pont1": 1,
+        "valasz2": "Nem, minek? Ha húst akarok enni, akkor azt eszem.",
+        "pont2": 3,
+        "valasz3": "Igen, de nem az én világom.",
+        "pont3": 2
+    },
+    {
+        "kerdes": "Mennyi tejterméket fogyasztasz?",
+        "valasz1": "Minden, ami tej, sajt, az jöhet. Bármennyi, bármikor.",
+        "pont1": 3,
+        "valasz2": "Csak akkor, ha megkívánom. Amúgy nem vagyok nagy sajtos.",
+        "pont2": 2,
+        "valasz3": "Nem eszem ilyesmit. Ha igen, az is inkább növényi. ",
+        "pont3": 1
+    },
+    {
+        "kerdes": "Tudod mit jelent a mikrobiom?",
+        "valasz1": "A velünk élő mikróbák, ezek egy része a bélrendszerben található jótékony baktériumok.",
+        "pont1": 1,
+        "valasz2": "A bélben található rossz baktériumok.",
+        "pont2": 2,
+        "valasz3": "Nem tudom mi az, de nem is szeretem ezeket a latin szavas dolgokat.",
+        "pont3": 3
+    },
+    {
+        "kerdes": "Mennyi vizet iszol egy nap?",
+        "valasz1": "1,5 L lecsúszik nagy nehezen.",
+        "pont1": 2,
+        "valasz2": "Inkább Cola, Fanta, Hell. Ez számít?",
+        "pont2": 3,
+        "valasz3": "2-2,5 L napi szinten megvan.",
+        "pont3": 1
+    },
+    {
+        "kerdes": "Mennyi a képernyőidőd a telefonodon egy hét alatt?",
+        "valasz1": "50 óra fölött.",
+        "pont1": 3,
+        "valasz2": "25 óra vagy alatta.",
+        "pont2": 1,
+        "valasz3": "50 és 25 óra között.",
+        "pont3": 2
+    },
+    {
+        "kerdes": "Hogy alszol el?",
+        "valasz1": "Lefekvés előtt olvasok egy könyvet vagy beszélgetek a szüleimmel/tesómmal, alváskor sötét a szobám.",
+        "pont1": 3,
+        "valasz2": "Tévézek vagy zenét hallgatok előtte.",
+        "pont2": 2,
+        "valasz3": "Tévére, zenére alszom el és (ha van) éjjeli fénnyel alszom.",
+        "pont3": 1
+    }
+]
