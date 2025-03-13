@@ -55,7 +55,7 @@ function InitializeQuestion(index)
         values[2] = Questions[index].pont3
         Element.innerHTML = 
         `
-                <h1>${Questions[index].kerdes}</h1>
+                <h1>${QuestionIndex+1}. Kérdés: ${Questions[index].kerdes}</h1>
                 <input type="radio" name="Kerdes" id="Kerdes1" value="1"><label for="Kerdes1">${Questions[index].valasz1}</label><br>
                 <input type="radio" name="Kerdes" id="Kerdes2" value="2"><label for="Kerdes2">${Questions[index].valasz2}</label><br>
                 <input type="radio" name="Kerdes" id="Kerdes3" value="3"><label for="Kerdes3">${Questions[index].valasz3}</label><br>
@@ -92,5 +92,5 @@ fetch("kerdesek.json").then(JSON =>JSON.json()).then(file =>
     {
         Questions.push(new Question(element.kerdes,element.valasz1,element.pont1,element.valasz2,element.pont2,element.valasz3,element.pont3))
     });
-    InitializeQuestion(13)
+    InitializeQuestion(QuestionIndex)
 })
